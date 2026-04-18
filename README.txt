@@ -19,14 +19,7 @@ GitHub setup:
 6. Save
 7. In Custom domain, use: lumi-con.co.uk
 
-Namecheap DNS for lumi-con.co.uk:
-- Remove the URL Redirect records
-- Add these records instead:
-  A      @      185.199.108.153
-  A      @      185.199.109.153
-  A      @      185.199.110.153
-  A      @      185.199.111.153
-  CNAME  www    darylbwickham-design.github.io
+
 
 Notes:
 - Wait for DNS/HTTPS propagation after saving
